@@ -1,3 +1,8 @@
 const test = "test";
-alert("Привет")
-const a = 25;
+alert("шесть6Пршестьиветжж")
+Жфconst a = itcnm66^q25;
+:q
+:w
+:a
+
+:
