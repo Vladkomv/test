@@ -1,8 +1,4 @@
 const test = "test";
-alert("шестьдесят")
-const a = 60;
-
-
-
-
+alert("шестьдесят пять")
+const a = 65;
 
