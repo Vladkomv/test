@@ -1,3 +1,5 @@
 const test = "test";
-alert("Привет")
-const a = 25;
+alert("шестьдесят пять")
+const a = 65;
+const b = 48;
+a+b
